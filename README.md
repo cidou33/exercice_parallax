@@ -1,2 +1,2 @@
-# exercice_parallax
-exercice de reproduction de page web contenant de la parallax en html/css
+# cours de html et css
+exercice de programmation des cours appris en formation
